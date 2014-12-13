@@ -4,9 +4,6 @@
 
 The average rate of DM annihilations at redshift $z$ is proportional to the, $\langle \rho^2 \rangle$, the average of DM density squared. To calculate this value one needs to integrate over the volume. Unfortunatelly, the simulations of large scale structure do not have high enough resolution to pick up all substructure. Therefore we use approximate method based on converging the halos mass function and concentration relations.
 
-Next ingridient is the model for concentrations. We adopt the model by \cite{2014arXiv1407.4730D}, which provides superior fits. Again, since the model is based on simulation, only masses higher $~10^{10}\;M_\odot$ are probed. However, this concentration fits are in fair agreement with the simulations of micro-mass halos at high (~30) redshifts (see Figure 8 of \cite{2014arXiv1407.4730D}), which makes us optimistic about using it at lower masses and high redshifts.
-
-Even though the average concentration for a halo of given mass is well defined, the scatter is not negligible. Therefore, we also integrate over the concentrations.
 
 For the halo mass profile we adopt standard NFW \cite{1997ApJ...490..493N}. 
 
@@ -14,14 +11,19 @@ For the halo mass profile we adopt standard NFW \cite{1997ApJ...490..493N}.
 
 As we will present in latter sections, low mass halos are main contributors to the total annihilatoin rate. Therefore our main requirement to the halo mass function is its ability to work at wide range of masses (up to $M \approx 10^{-12}M_\odot$) and at high redshifts (up to $z \approx 100$). 
 
-Halo mass functions are 
-Most of fits to the fits to the numerical simulations like, \citet{Tinker_2008} an its extension to higher redshifts by \citet{Behroozi_2013}, are tuned only for halos $10^{8}M_\odot < M < 10^{15}M_\odot$.  Low mass end can be tuned with special simulation \cite{Diemand_2005}.
+There are two types of halo mass function models -- fully analytical based on collapse models and fits to the numerical simulations.
+
+Most of fits to the fits to the numerical simulations like, \citet{Tinker_2008} an its extension to higher redshifts by \citet{Behroozi_2013}, are tuned only for halos $10^{8}M_\odot < M < 10^{15}M_\odot$. Low mass end can be tuned with special simulations like \cite{Diemand_2005}.
 
 Analytical models of spherical collapse \citep{Press_1974} and ellipsoidal collapse \citep{Sheth_2001} by definition work on any scale and at all redshifts.
 
-Therefore we adopt. Here we adopt two models: the analytical one based on  and extension of the model by . The latter model is based on the fits to the numerical simulations. It explores only high masses, while low mass halos can be important. We use this package for calculating HM functions \cite{Murray_2013} (which actually does not work properly...).
+At the moment we adopt only standard \citet{Press_1974} model. Laer we will probably include other models... We use this package for calculating HM functions \cite{Murray_2013} (which actually does not work properly...).
 
+\subsection{Concentration model}
 
+Next ingridient is the model for concentrations. We adopt the model by \cite{2014arXiv1407.4730D}, which provides superior fits. Again, since the model is based on simulation, only masses higher $~10^{10}\;M_\odot$ are probed. However, this concentration fits are in fair agreement with the simulations of micro-mass halos at high (~30) redshifts (see Figure 8 of \cite{2014arXiv1407.4730D}), which makes us optimistic about using it at lower masses and high redshifts.
+
+Even though the average concentration for a halo of given mass is well defined, the scatter is not negligible. Therefore, we also integrate over the concentrations.
 
 
 
