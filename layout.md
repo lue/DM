@@ -5,3 +5,4 @@ figures/spectrum1/spectrum1.png
 Annihilation rate.tex
 figures/pdfv/pdfv.png
 figures/pdfvdelta/pdfvdelta.png
+Additional clumpiness.tex
