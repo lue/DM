@@ -1,6 +1,6 @@
 abstract.tex
 introduction.tex
-DM annihilation.tex
+DM annihilation efficiency for hydrogen ionization.tex
 figures/spectrum1/spectrum1.png
 Annihilation rate.tex
 Additional clumpiness.tex
