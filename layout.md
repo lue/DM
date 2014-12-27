@@ -1,7 +1,7 @@
 abstract.tex
 introduction.tex
 Preliminaries.tex
-Additional clumpiness.tex
+Origins of clumpiness.tex
 Table of effects.tex
 Halo mass function.tex
 Scatter of concentrations.tex
