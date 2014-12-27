@@ -2,6 +2,7 @@ abstract.tex
 introduction.tex
 Annihilation rate.tex
 Additional clumpiness.tex
+Table of effects.tex
 Scatter of concentrations.tex
 Non-spherical halos.tex
 Small clumps within large halos.tex
