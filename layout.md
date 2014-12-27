@@ -1,6 +1,6 @@
 abstract.tex
 introduction.tex
-Annihilation rate.tex
+Preliminaries.tex
 Additional clumpiness.tex
 Table of effects.tex
 Halo mass function.tex
