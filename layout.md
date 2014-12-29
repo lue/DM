@@ -9,6 +9,7 @@ figures/Mcrit/Mcrit.png
 Scatter of concentrations.tex
 figures/c_scatter/c_scatter.png
 Modified NFW.tex
+figures/NFW/NFW.png
 Small clumps within large halos.tex
 Non-spherical halos.tex
 DM annihilation efficiency for hydrogen ionization.tex
