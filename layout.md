@@ -7,6 +7,7 @@ figures/all/all.png
 Halo mass function.tex
 figures/Mcrit/Mcrit.png
 Scatter of concentrations.tex
+figures/c_scatter/c_scatter.png
 Modified NFW.tex
 Small clumps within large halos.tex
 Non-spherical halos.tex
