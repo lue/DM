@@ -14,7 +14,6 @@ Small clumps within large halos.tex
 figures/Subhalos/Subhalos.png
 Non-spherical halos.tex
 DM annihilation efficiency for hydrogen ionization.tex
-figures/spectrum1/spectrum1.png
 Recombination.tex
 Results.tex
 figures/figure_2/figure_2.png
