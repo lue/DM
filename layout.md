@@ -18,6 +18,7 @@ Recombination.tex
 Results.tex
 figures/figure_2/figure_2.png
 figures/DMionized-AB/DMionized-AB.png
+section_discussion_We_have_shown__.tex
 Appendix.tex
 figures/figure_3/figure_3.png
 figures/figure_4/figure_4.png
