@@ -1,7 +1,6 @@
 abstract.tex
 introduction.tex
 Preliminaries.tex
-Origins of clumpiness.tex
 Table of effects.tex
 figures/all/all.png
 Halo mass function.tex
