@@ -1,7 +1,6 @@
 abstract.tex
 introduction.tex
 Preliminaries.tex
-Table of effects.tex
 figures/all/all.png
 Halo mass function.tex
 figures/Mcrit/Mcrit.png
