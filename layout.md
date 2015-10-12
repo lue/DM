@@ -12,4 +12,3 @@ Non-spherical halos.tex
 DM annihilation efficiency for hydrogen ionization.tex
 Results.tex
 figures/DMionized-AB/DMionized-AB.png
-Appendix.tex
