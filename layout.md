@@ -4,7 +4,6 @@ Preliminaries.tex
 figures/all/all.png
 Halo mass function.tex
 figures/Mcrit/Mcrit.png
-Scatter of concentrations.tex
 figures/c_scatter/c_scatter.png
 Modified NFW.tex
 figures/NFW/NFW.png
