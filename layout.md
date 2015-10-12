@@ -5,7 +5,6 @@ figures/all/all.png
 Halo mass function.tex
 figures/Mcrit/Mcrit.png
 figures/c_scatter/c_scatter.png
-Modified NFW.tex
 figures/NFW/NFW.png
 Small clumps within large halos.tex
 figures/Subhalos/Subhalos.png
