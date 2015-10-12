@@ -9,6 +9,7 @@ figures/NFW/NFW.png
 Small clumps within large halos.tex
 figures/Subhalos/Subhalos.png
 Non-spherical halos.tex
+section_DM_annihilation_products_textbf__.tex
 DM annihilation efficiency for hydrogen ionization.tex
 Results.tex
 figures/DMionized-AB/DMionized-AB.png
