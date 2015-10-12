@@ -16,3 +16,19 @@ Next ingridient is the model for concentrations. We adopt the model by \cite{201
 Even though the average concentration for a halo of given mass is well defined, the scatter is not negligible. Therefore, we also integrate over the concentrations.
 
 In \cite{2014arXiv1407.4730D} (the very end of \S5.1) the authors report that 68\% rms scatter in $\log_{10}c_{200c}$ around median concentration is $\approx 0.16$ dex. Depending on the underlying distribution, it can increase the boosting factor by $15\%-50\%$. We use probability distribution funcion of concentrations as in \cite{2014arXiv1412.4308M}. For our low, medium and high scenarios we adopt values of $\sigma_{\log_{10} c}$ 0.1, 0.15 and 0.2 correspondingly.
+
+\subsection{Modified NFW}
+
+For pessimistic model we adopt standard NFW \cite{1997ApJ...490..493N}. In the realistic and optimistic scenario stteper inner slope can increase boosting factor. Therefore we also use modified NFW profile can be written as:
+\begin{equation}
+\rho(r) = \dfrac{\rho_0}{(r/r_S)^\alpha(1+r/r_S)^{(3-\alpha)}},
+\end{equation}
+where an additional parameter \alpha emerges. For standard NFW $\alpha=1$.
+
+The boosting factor can be evaluated analytically for this profile:
+\begin{equation}
+B(c) = \frac{c^3 \left(-\left(c^3 (-c)^{-2 \alpha} (c+1)^{2 \alpha-5} \left(2 \alpha^2-2 \alpha c-9 \alpha+c^2+5 c+10\right)\right)\right)}{\left(4 \alpha^3-24 \alpha^2+47 \alpha-30\right) \rm{B}_{-c}(3-\alpha,\alpha-2){}^2},
+\end{equation}
+where $\rm{B}$ is the incomplete beta function.
+
+We use the alpha value provided in \cite{Ishiyama_2014}. For mass ranges where $\alpha$ exceeds 3/2 or drops below 1 we use 3/2 and 1 correspondingly.
