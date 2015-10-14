@@ -1,6 +1,7 @@
 abstract.tex
 introduction.tex
 Preliminaries.tex
+begin_table_begin_tabular_c__.tex
 figures/all/all.png
 Halo mass function.tex
 figures/Mcrit/Mcrit.png
