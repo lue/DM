@@ -13,3 +13,4 @@ Non-spherical halos.tex
 section_DM_annihilation_products_label__.tex
 DM annihilation efficiency for hydrogen ionization.tex
 Results.tex
+figures/bb/bb.png
